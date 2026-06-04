@@ -1,4 +1,4 @@
-# ShelfIQ — AI-Powered SKU Portfolio Decisioning for FMCG
+# ShelfIQ: AI-Powered SKU Portfolio Decisioning for FMCG
 
 **A PM case study prototype built around Nestlé's SKU portfolio complexity and rationalization challenge.**
 
@@ -8,19 +8,19 @@
 
 ## What is ShelfIQ?
 
-ShelfIQ is an AI-powered portfolio decisioning tool that gives FMCG strategy teams a unified, real-time view of their SKU portfolio — with intelligent recommendations on what to cut, grow, or invest in, and a scenario simulator to model the impact of portfolio changes before any decision is made.
+ShelfIQ is an AI-powered portfolio decisioning tool that gives FMCG strategy teams a unified, real-time view of their SKU portfolio, with intelligent recommendations on what to cut, grow, or invest in, and a scenario simulator to model the impact of portfolio changes before any decision is made.
 
-This prototype is built as a PM case study for Nestlé, addressing the challenge of managing 2,000+ brands and tens of thousands of SKUs across global zones — a problem that currently costs companies like Nestlé hundreds of millions in trapped capital tied up in underperforming products.
+This prototype is built as a PM case study for Nestlé, addressing the challenge of managing 2,000+ brands and tens of thousands of SKUs across global zones. a problem that currently costs companies like Nestlé hundreds of millions in trapped capital tied up in underperforming products.
 
 ---
 
 ## Features
 
-- **Portfolio Overview** — KPI cards, recommendation distribution by zone, and a "bottom 5 immediate action" panel
-- **Regional Tabs (Americas / Europe / AOA)** — Full SKU table with health scores, trend indicators, and AI recommendation tags per Nestlé's actual zone structure
-- **SKU Detail Panel** — Click any SKU to view the full AI analysis, health score breakdown by dimension, and a 6-quarter revenue trend chart
-- **Scenario Simulator** — Select SKUs to remove, run a simulation, and instantly see projected margin improvement, revenue at risk, supply chain complexity reduction, and cannibalization warnings
-- **Simulated Live Data** — Revenue figures drift every 30 seconds to simulate a live data feed, with health scores and recommendations recalculated dynamically
+- **Portfolio Overview**: KPI cards, recommendation distribution by zone, and a "bottom 5 immediate action" panel
+- **Regional Tabs (Americas / Europe / AOA)**: Full SKU table with health scores, trend indicators, and AI recommendation tags per Nestlé's actual zone structure
+- **SKU Detail Panel**: Click any SKU to view the full AI analysis, health score breakdown by dimension, and a 6-quarter revenue trend chart
+- **Scenario Simulator**: Select SKUs to remove, run a simulation, and instantly see projected margin improvement, revenue at risk, supply chain complexity reduction, and cannibalization warnings
+- **Simulated Live Data**: Revenue figures drift every 30 seconds to simulate a live data feed, with health scores and recommendations recalculated dynamically
 
 ---
 
@@ -37,10 +37,10 @@ Each SKU is scored 0–100 using a weighted formula across 5 dimensions:
 | Cannibalization Risk | 10% |
 
 **Recommendation tiers:**
-- 🟢 **Invest** — Health ≥ 72
-- 🔵 **Maintain** — Health 52–71
-- 🟠 **Watch** — Health 35–51
-- 🔴 **Divest** — Health < 35
+- 🟢 **Invest**: Health ≥ 72
+- 🔵 **Maintain**: Health 52–71
+- 🟠 **Watch**: Health 35–51
+- 🔴 **Divest**: Health < 35
 
 ---
 

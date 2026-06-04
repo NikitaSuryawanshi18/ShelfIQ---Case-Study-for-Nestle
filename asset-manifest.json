@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShelfIQ---Case-Study-for-Nestle/static/css/main.3be14159.css",
+    "main.js": "/ShelfIQ---Case-Study-for-Nestle/static/js/main.739e3bc8.js",
+    "index.html": "/ShelfIQ---Case-Study-for-Nestle/index.html",
+    "main.3be14159.css.map": "/ShelfIQ---Case-Study-for-Nestle/static/css/main.3be14159.css.map",
+    "main.739e3bc8.js.map": "/ShelfIQ---Case-Study-for-Nestle/static/js/main.739e3bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be14159.css",
+    "static/js/main.739e3bc8.js"
+  ]
+}
